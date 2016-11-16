@@ -1,0 +1,11 @@
+301 Redirect /1 /one
+301 Redirect /2 /two
+301 Redirect /3 /three
+301 Redirect /4 /four
+301 Redirect /5 /five
+301 Redirect /6 /six
+301 Redirect /7 /seven
+301 Redirect /8 /eight
+301 Redirect /9 /nine
+301 Redirect /10 /ten
+this one isn't correct: wrong
